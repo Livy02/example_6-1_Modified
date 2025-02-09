@@ -1,1 +1,1 @@
-I modified the user interface module so that the LCD displayed the correct information is printed on the display.
+I modified the user_interface.pp file in the user interface module so that the LCD printed the correct information on the display. 
